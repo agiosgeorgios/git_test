@@ -1,0 +1,1 @@
+This is Djordje's first git project!
