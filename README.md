@@ -1,1 +1,1 @@
-This is Djordje's first git project!
+This is Djordje's first git project! It is only a test!
